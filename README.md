@@ -82,6 +82,11 @@ Contributions are welcome! Here’s how you can help:
 ### Acknowledgments 🙏
 - React and Flask communities for their amazing tools and libraries.
 - Google Gemini for providing the API.
+  
+### NOTE
+
+- If you find the code is giving a model error then please change the model endpoint of GEMINI. To see the list of Gemini endpoints please visit: **https://ai.google.dev/gemini-api/docs/models/gemini**
+    
 
 ---
 Made with ❤️ by Invisipaul
