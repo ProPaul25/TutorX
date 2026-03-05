@@ -67,7 +67,7 @@ The **AI Study Assistant** is a web application that uses AI to generate concise
     npm install
     npm start
 6. **Open the App:**
-    Visit http://localhost:3000 in your browser.
+    Visit http://localhost:portno in your browser.
 ---
 ### Contributing 🤝
 Contributions are welcome! Here’s how you can help:
